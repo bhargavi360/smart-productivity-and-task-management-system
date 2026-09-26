@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 🚀 Smart Productivity & Task Management System
 
 This is a premium full-stack task management application designed to help you manage your day-to-day tasks and track your productivity efficiently.
@@ -58,4 +56,3 @@ Profile updates and user preferences
 /backend          -> Python Flask APIs
 /frontend         -> UI files (HTML/CSS/JS)
 README.md         -> Project documentation
->>>>>>> b0a55d4d7d820b8aa6b2ea2e44f55363cbefb3b4
