@@ -1,4 +1,4 @@
-const API_URL = 'http://127.0.0.1:5000/api';
+const API_URL = "http://127.0.0.1:5000/api";
 
 // Authentication Management
 const auth = {
@@ -56,7 +56,6 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
-
     if (registerForm) {
         registerForm.addEventListener('submit', async (e) => {
             e.preventDefault();
